@@ -1,2 +1,2 @@
-# interzone.github.io
+# interzonesec.github.io
 Cybersecurity Research Blog
